@@ -19,11 +19,11 @@ Resources:
        - !Ref EC2InstanceSecurityGroup
      BlockDeviceMappings:
        - DeviceName: /dev/xvda
-        Ebs:
+         Ebs:
           VolumeSize: '20' # 20GB volume size
           VolumeType: gp2
      UserData:
-        Fn::Base64: !Sub |
+      Fn::Base64: !Sub |
           #!/bin/bash
           yum update -y
           yum install -y docker git
