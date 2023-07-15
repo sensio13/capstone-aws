@@ -12,9 +12,9 @@ Added sign in button and link to sign in.html on the left pane as well as the bo
 Made commits of all the changes with respective commit messages. 
 
 Containerization:
-Linked VS Code to Docker. Ran a git clone command to download the project github repository to VS Code.
-Created a DockerFile with the necessary code and built the docker image
-Ran the application container an tested to ensure that curl local host and localhost 80 on the browser showed the website (see images below)
+- Linked VS Code to Docker. Ran a git clone command to download the project github repository to VS Code.
+- Created a DockerFile with the necessary code and built the docker image
+- Ran the application container an tested to ensure that curl local host and localhost 80 on the browser showed the website (see images below)
 
 ![PXL_20230712_043138491](https://github.com/sensio13/capstone-aws/assets/73503694/a46b3553-b819-43c8-8b9d-548a277974b1)
 
@@ -42,9 +42,11 @@ Cloud Deployment:
 
 Infrastructure as Code using AWS CloudFormation: 
 
-Created the CloudFormation template and launched CloudFormation stack (per project guidelines). Used SSH to access the new ec2 instance (project-class).
-From command line run the git clone command to pull code from the project repository. Built container using dockerfile and ran the container.
-Website able to load succesfully in browser using public ip (44.204.44.19) of EC2 instance (see evidence below).
+- Created the CloudFormation template and launched CloudFormation stack (per project guidelines).
+- Used SSH to access the new ec2 instance (project-class).
+- From command line run the git clone command to pull code from the project repository.
+- Built container using dockerfile and ran the container.
+- Website able to load succesfully in browser using public ip (44.204.44.19) of EC2 instance (see evidence below).
 
 ![PXL_20230713_193314568](https://github.com/sensio13/capstone-aws/assets/73503694/2829bb8a-e9bb-43f7-8c07-62f6b4b3e2b1)
 
