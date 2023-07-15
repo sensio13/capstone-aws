@@ -54,3 +54,11 @@ Website able to load succesfully in browser using public ip (44.204.44.19) of EC
 ![PXL_20230713_195336515](https://github.com/sensio13/capstone-aws/assets/73503694/d9830bf8-94f4-4f66-85ad-d5621355a88f)
 
 ![PXL_20230713_195437650](https://github.com/sensio13/capstone-aws/assets/73503694/1fe14c8f-fb14-4cb1-8c35-bac4faec7eaf)
+
+
+Key findings:
+- Github is a really usefull tool. Will be using it a lot more in the near future
+- Docker and containers are not that hard to learn (I had some prior experience with Red Hat Openshift). Containers provide a lot of flexibility compared to let's say something like VM's.
+- You can pretty much do anything you want with AWS. They have a service for everything that you need
+- VS Code is a lot more powerful than whst I thought
+- Ran into some issues that I had to troubleshoot like clouformation template (had to clear cache of browser and quit in order for the template to be created). Had some SSH issues that I needed to troubleshoot. Ran into issues running sme of the commands as I was not in the right directory. A project like this cahllenges you in different aspects as you will run into issues that you need to troubleshoot in order to get to the next step. 
