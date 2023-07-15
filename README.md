@@ -21,3 +21,17 @@ Ran the application container an tested to ensure that curl local host and local
 ![PXL_20230712_043235093](https://github.com/sensio13/capstone-aws/assets/73503694/60217546-902d-475a-abc4-1ca09e30f9ad)
 
 ![PXL_20230712_043308364](https://github.com/sensio13/capstone-aws/assets/73503694/8fd80f57-3fbb-4bab-a563-bda1e8cb1c5f)
+
+
+Cloud Deployment:
+
+
+Created EC2 instance and allowed port 80 (http) and 22 (ssh) access via security group. 
+Used SSH to access ec2 instance. Installed github and docker. Pulled the code from my github repo to the ec2 instance
+Built the docker image and ran the container. Verified that public ip (54.158.99.132) for ec2 instance in browser produced website. (see images below)
+
+![PXL_20230712_041708238](https://github.com/sensio13/capstone-aws/assets/73503694/37f1575c-59e2-4339-96c2-14450570bd5e)
+
+![PXL_20230712_042110063](https://github.com/sensio13/capstone-aws/assets/73503694/6e8ab90f-7398-4c00-bde5-bc1f967d28a6)
+
+![Uploading PXL_20230712_041607236.MP (1).jpg…]()
