@@ -34,4 +34,5 @@ Built the docker image and ran the container. Verified that public ip (54.158.99
 
 ![PXL_20230712_042110063](https://github.com/sensio13/capstone-aws/assets/73503694/6e8ab90f-7398-4c00-bde5-bc1f967d28a6)
 
-![Uploading PXL_20230712_041607236.MP (1).jpg…]()
+![PXL_20230712_041607236 MP (1)](https://github.com/sensio13/capstone-aws/assets/73503694/c310d146-e6e9-4ba8-9405-b4bc7688e8be)
+
