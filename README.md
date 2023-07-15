@@ -36,3 +36,12 @@ Built the docker image and ran the container. Verified that public ip (54.158.99
 
 ![PXL_20230712_041607236 MP (1)](https://github.com/sensio13/capstone-aws/assets/73503694/c310d146-e6e9-4ba8-9405-b4bc7688e8be)
 
+![PXL_20230712_041917497](https://github.com/sensio13/capstone-aws/assets/73503694/41efb601-e51d-4f61-86f2-fc4e62117a15)
+
+
+Infrastructure as Code using AWS CloudFormation: 
+Created the CloudFormation template and launched CloudFormation stack (per project guidelines). Used SSH to access the new ec2 instance
+From command line run the git clone command to pull code from the project repository. Built container using dockerfile and ran the container
+Website able to load succesfully in browser using public ip of EC2 instance (see evidence below)
+
+![PXL_20230713_193314568](https://github.com/sensio13/capstone-aws/assets/73503694/2829bb8a-e9bb-43f7-8c07-62f6b4b3e2b1)
