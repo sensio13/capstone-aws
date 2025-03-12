@@ -60,8 +60,8 @@ Infrastructure as Code using AWS CloudFormation: 
 
 
 Key findings:
-- Github is a really useful tool. Will be using it a lot more in the near future
+- Github is a really useful tool. Will be using it a lot more in the near future.
 - Docker and containers are not that hard to learn (I had some prior experience with Red Hat Openshift). Containers provide a lot of flexibility compared to let's say something like VM's.
-- You can pretty much do anything you want with AWS. They have a service for everything that you need
-- VS Code is a lot more powerful than whst I thought
+- You can pretty much do anything you want with AWS. They have a service for everything that you need.
+- VS Code is a lot more powerful than what I thought.
 - Ran into some issues that I had to troubleshoot like cloudformation template (had to clear cache of browser and quit in order for the template to be created). Had some SSH issues that I needed to troubleshoot. Ran into issues running some of the commands as I was not in the right directory. A project like this cahllenges you in different aspects as you will run into issues that you need to troubleshoot in order to get to the next step. 
